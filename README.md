@@ -24,7 +24,8 @@ Este projeto centraliza dados, reduz erros e otimiza tempo, permitindo relatóri
 👉 [Proj4me - Projeto Fictício](https://app.proj4.me/projects)
 
 ## 6. Documento de Visão
-📄 Declaracao_Visao_Gerenciamento_Pessoal.docx (disponível na pasta `/docs`)
+📄 Declaracao_Visao_Gerenciamento_Pessoal.docx (disponível na pasta `/docs`) 
+[📄 Clique aqui para acessar e baixar a visão do prejeto](docs/Declaracao_Visao_e_Tabela_Release.docx)
 
 ## 7. Equipe do Projeto
 - Nathalia Barcellos do Santos – Gerente do Projeto  
@@ -49,7 +50,7 @@ Este projeto centraliza dados, reduz erros e otimiza tempo, permitindo relatóri
    - Como gestor, quero definir cargos e permissões.  
 
 3. **Relatórios Simples**  
-   - Como gestor, quero gerar relatórios básicos de colaboradores.  
+   - Como gestor, quero gerar relatórios básicos de colaboradores.   
 
 ## 10. Release Plan (Prioridades)
 1. Cadastro de Colaboradores – 🔺 Muito Alta  
