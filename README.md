@@ -78,6 +78,7 @@ Exemplo: **Cadastro de Colaboradores**
 
 ## 14. Certificado
 🎓 Certificado do curso de Scrum Agile (Udemy) anexado na pasta `/docs`.
+[📄 Clique aqui para visualizar o certificado](docs/certificado_scrum.pdf)
 
 ## 15. Próximos Passos
 Após o estudo de Scrum, o projeto será expandido com **SQL** para criação de um banco de dados fictício, evoluindo o sistema com novas funcionalidades.
